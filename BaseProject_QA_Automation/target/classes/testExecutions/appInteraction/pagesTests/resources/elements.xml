@@ -1,0 +1,8 @@
+<resources>
+    <Android_LoginScreen>
+        <string name="and_user_login" platform="ANDROID" type="xpath">//android.widget.EditText[@resource-id='world.hello.myapplication:id/username']</string>
+        <string name="and_password_login" platform="ANDROID" type="xpath">//android.widget.EditText[@resource-id='world.hello.myapplication:id/password']</string>
+        <string name="and_enter_button_login" platform="ANDROID" type="xpath">//android.widget.Button[@resource-id='world.hello.myapplication:id/login']</string>
+    </Android_LoginScreen>
+    
+</resources>

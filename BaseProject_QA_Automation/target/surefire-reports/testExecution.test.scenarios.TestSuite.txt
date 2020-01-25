@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: testExecution.test.scenarios.TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.144 sec

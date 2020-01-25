@@ -1,0 +1,5 @@
+testExecution\setup\MixSetup.class
+testExecution\appInteraction\genericMethods\BasePageAndroid.class
+testExecution\appInteraction\pagesTests\resources\Information.class
+testExecution\appInteraction\genericMethods\BasePage_Mobile.class
+testExecution\setup\Setup.class
