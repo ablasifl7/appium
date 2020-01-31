@@ -1,12 +1,10 @@
 package testExecutions.test.scenarios;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import io.appium.java_client.android.AndroidDriver;
+
 import testExecutions.appInteraction.genericMethods.BasePageAndroid;
 import testExecutions.setup.MixSetup;
 import testExecutions.tests.ReportGenerator;
@@ -14,7 +12,7 @@ import testExecutions.tests.ReportGenerator;
 public class TestSuite extends MixSetup {
 
     private MixSetup androidSetup = new MixSetup();
-    private AndroidDriver<?> app_driver;
+
     private BasePageAndroid bpa;
     
 

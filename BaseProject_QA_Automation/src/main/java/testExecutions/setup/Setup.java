@@ -12,8 +12,6 @@ import testExecutions.appInteraction.pagesTests.resources.Information;
 
 public abstract class Setup extends Information {
 
-    public WebDriver driver;
-	
     public abstract WebDriver prepareSelenium() throws MalformedURLException, InterruptedException, IOException;
 
     @SuppressWarnings("rawtypes")
@@ -39,5 +37,10 @@ public abstract class Setup extends Information {
         } catch (Exception e) {
             System.out.println("An error occurred. " + e);
         }
+    }
+    
+    /** Method of properties **/
+    protected void configureProperties() {
+    	
     }
 }

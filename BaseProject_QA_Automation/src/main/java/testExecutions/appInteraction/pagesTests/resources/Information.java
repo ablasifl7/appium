@@ -2,8 +2,12 @@ package testExecutions.appInteraction.pagesTests.resources;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Properties;
 
 import org.apache.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+
+import io.appium.java_client.android.AndroidDriver;
 
 
 
@@ -114,5 +118,18 @@ public abstract class Information {
 
     // Path to read Excel
     final public String writeExcel_path = "src/main/java/testExecutions/appInteraction/pagesTests/resources/myapplication-debug.xlsx";
+    
+    //l
+    final public String propPath = "src/main/java/testExecutions/appInteraction/pagesTests/resources/config.properties";
+    /**
+     * My own definition
+     */
+    // Drivers
+    public AndroidDriver<?> app_driver;
+    public WebDriver driver;
+    
+    // Properties
+    public Properties prop;
+    
     
 }

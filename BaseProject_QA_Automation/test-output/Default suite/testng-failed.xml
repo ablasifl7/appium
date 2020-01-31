@@ -7,7 +7,6 @@
         <methods>
           <include name="setUp"/>
           <include name="testName"/>
-          <include name="tearDown"/>
         </methods>
       </class> <!-- testExecutions.test.scenarios.TestSuite -->
     </classes>

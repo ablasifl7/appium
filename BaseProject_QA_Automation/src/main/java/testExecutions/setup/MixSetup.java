@@ -33,9 +33,9 @@ public class MixSetup extends Setup {
         /** Instantation of the driver object **/
        
 
-        driver =  new AndroidDriver(new URL("http://127.0.0.1:"+port+"/wd/hub"), capabilities);
+        app_driver =  new AndroidDriver(new URL("http://127.0.0.1:"+port+"/wd/hub"), capabilities);
     
-        return (AndroidDriver) driver;
+        return (AndroidDriver) app_driver;
         
     }
 

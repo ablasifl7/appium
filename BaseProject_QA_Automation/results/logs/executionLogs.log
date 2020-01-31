@@ -1,30 +1,30 @@
-2020-01-17 11:40:19 INFO  infoLogger:28 - 
+2020-01-29 11:12:11 INFO  infoLogger:27 - 
 					-------------------------------
 					BEGINNING OF THE TEST EXECUTION
 					-------------------------------
 
-2020-01-17 11:40:19 INFO  infoLogger:63 - Device name: sony_xe5
-2020-01-17 11:40:19 INFO  infoLogger:64 - Port: 4723
-2020-01-17 11:40:19 INFO  infoLogger:65 - OS Version: 6.0
-2020-01-17 11:40:19 INFO  infoLogger:66 - Platform: ANDROID
-2020-01-17 11:40:19 INFO  infoLogger:67 - UDID: RQ3001UB2D
-2020-01-17 11:40:46 INFO  infoLogger:46 - 
+2020-01-29 11:12:11 INFO  infoLogger:63 - Device name: sony_xe5
+2020-01-29 11:12:11 INFO  infoLogger:64 - Port: 4723
+2020-01-29 11:12:11 INFO  infoLogger:65 - OS Version: 6.0
+2020-01-29 11:12:11 INFO  infoLogger:66 - Platform: ANDROID
+2020-01-29 11:12:11 INFO  infoLogger:67 - UDID: RQ3001UB2D
+2020-01-29 11:12:39 INFO  infoLogger:46 - 
 --------------------------
 Test 1 in progress...
 --------------------------
 
-2020-01-17 11:40:46 INFO  infoLogger:154 - 
+2020-01-29 11:12:40 INFO  infoLogger:154 - 
 Capturing a Screenshot...
-2020-01-17 11:40:49 INFO  infoLogger:186 - ...Done
+2020-01-29 11:12:42 INFO  infoLogger:186 - ...Done
 
-2020-01-17 11:41:01 INFO  infoLogger:154 - 
+2020-01-29 11:12:55 INFO  infoLogger:154 - 
 Capturing a Screenshot...
-2020-01-17 11:41:04 INFO  infoLogger:186 - ...Done
+2020-01-29 11:12:58 INFO  infoLogger:186 - ...Done
 
-2020-01-17 11:41:04 INFO  infoLogger:79 - 
+2020-01-29 11:12:58 INFO  infoLogger:79 - 
 Test result = 'OK'
 
-2020-01-17 11:41:04 INFO  infoLogger:82 - estimatedTime=18454ms
-2020-01-17 11:41:11 INFO  infoLogger:48 - 
+2020-01-29 11:12:58 INFO  infoLogger:82 - estimatedTime=18437ms
+2020-01-29 11:13:01 INFO  infoLogger:47 - 
 Tear down in process...
 
